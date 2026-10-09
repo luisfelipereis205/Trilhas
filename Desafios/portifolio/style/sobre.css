@@ -9,12 +9,7 @@
 body {
     margin: 0;
     padding: 20px;
-    background: linear-gradient(
-        135deg,
-        #0f172a,
-        #1e293b,
-        #111827
-    );
+    background: linear-gradient( 135deg, #0f172a,#1e293b, #111827);
     color: beige;
     width: 100%;
     min-height: 100vh;
